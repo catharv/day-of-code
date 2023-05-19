@@ -1,6 +1,7 @@
 # Day of Code
 
-## Purpose
+## WEEEE WOOO
+
 This project is meant to provide a setup that can be used to build a Ruby on Rails application from scratch using GitHub Codespaces.
 This is being used to organise Day of Code, an event based on tutorials provided by Rails Girls.
 
